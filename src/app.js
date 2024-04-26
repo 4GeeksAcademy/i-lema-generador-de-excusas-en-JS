@@ -1,5 +1,4 @@
 window.onload = function() {
-  //write your code here
   let quien = [
     "Mi perro",
     "Mi gato",
